@@ -25,7 +25,7 @@ SECRET_KEY = '984o2!jl=j(a)h*g#ymj)hi@yh36rr$*5boy29+qxev=5%_!6!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['http://127.0.0.1:8000/']
+ALLOWED_HOSTS = ['djangoblooddonation.azurewebsites.net']
 
 
 # Application definition
