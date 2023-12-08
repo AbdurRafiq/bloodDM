@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="492441bf-c69e-42d8-97e3-75ee819b28a3" name="Changes" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/search/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbauet/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bbauet/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="bloodsource-master" type="Python.DjangoServer" factoryName="Django server">
       <module name="bloodsource-master" />
@@ -77,7 +82,8 @@
       <workItem from="1698458412423" duration="10746000" />
       <workItem from="1699122557090" duration="652000" />
       <workItem from="1701927346988" duration="862000" />
-      <workItem from="1701930157634" duration="5033000" />
+      <workItem from="1701930157634" duration="5366000" />
+      <workItem from="1702005827714" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1701934217752</created>
@@ -135,7 +141,28 @@
       <option name="project" value="LOCAL" />
       <updated>1701963050084</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit">
+      <created>1701963599999</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701963599999</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit">
+      <created>1701963765285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701963765285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit">
+      <created>1701963916426</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701963916426</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
